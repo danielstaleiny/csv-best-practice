@@ -1,0 +1,26 @@
+{
+  "name": "csv-best-practice",
+  "version": "1.0.0",
+  "description": "set of examples of working with csv files  to get meaningfull data out of them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielstaleiny/csv-best-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielstaleiny/csv-best-practice/issues"
+  },
+  "homepage": "https://github.com/danielstaleiny/csv-best-practice#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "fast-csv": "^2.4.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "request-promise": "^4.2.2"
+  }
+}
